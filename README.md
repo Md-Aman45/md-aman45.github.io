@@ -1,50 +1,29 @@
----
-
-## 🌐 Live Demo
-
-<div align="center">
-
-### ✅ [https://md-aman45.github.io/](https://md-aman45.github.io/)
-
-| Version | URL |
-|---|---|
-| 🆕 **Current (v2)** | [md-aman45.github.io](https://md-aman45.github.io/) |
-| 📁 **Previous (v1)** | [md-aman45.github.io/portfolio.github.io](https://md-aman45.github.io/portfolio.github.io/) |
-
-</div>
-
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+MD+Aman;Backend+%26+Full-Stack+Developer;Java+%7C+Node.js+%7C+Python+%7C+AWS;AI%2FLLM+Engineer" alt="Typing SVG" />
 
 <br/>
 
-[
+[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-md--aman45.github.io-10b981?style=for-the-badge)](https://md-aman45.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-aman-7941a0355/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Knight_🏅-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/AmanOps/)
+[![GFG](https://img.shields.io/badge/GFG-Rank_%232-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/amanstack)
+[![GitHub](https://img.shields.io/badge/GitHub-Md--Aman45-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Md-Aman45)
 
-![Portfolio](https://img.shields.io/badge/🌐_Portfolio-md--aman45.github.io-10b981?style=for-the-badge)
+</div>
 
-](https://md-aman45.github.io/)
-[
+---
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+## 🌐 Live Demo
 
-](https://www.linkedin.com/in/md-aman-7941a0355/)
-[
+<div align="center">
 
-![LeetCode](https://img.shields.io/badge/LeetCode-Knight_🏅-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+### 👉 [https://md-aman45.github.io/](https://md-aman45.github.io/)
 
-](https://leetcode.com/u/AmanOps/)
-[
-
-![GFG](https://img.shields.io/badge/GFG-Rank_%232-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
-
-](https://www.geeksforgeeks.org/profile/amanstack)
-[
-
-![GitHub](https://img.shields.io/badge/GitHub-Md--Aman45-181717?style=for-the-badge&logo=github&logoColor=white)
-
-](https://github.com/Md-Aman45)
+| Version | URL |
+|---|---|
+| 🆕 **Current (v2)** | [md-aman45.github.io](https://md-aman45.github.io/) |
+| 📁 **Previous (v1)** | [md-aman45.github.io/portfolio.github.io](https://md-aman45.github.io/portfolio.github.io/) |
 
 </div>
 
@@ -70,6 +49,7 @@ Built with **React + TypeScript + Tailwind CSS + Framer Motion** — fully respo
 | 📊 **Scroll Progress Bar** | Animated reading progress indicator |
 | 💬 **WhatsApp Contact** | Form messages sent directly via WhatsApp |
 | 🎭 **Spring Animations** | Framer Motion reveals, stagger, hover effects |
+| 🔗 **v1 Portfolio Link** | Navbar button linking to previous version |
 
 ---
 
@@ -77,31 +57,11 @@ Built with **React + TypeScript + Tailwind CSS + Framer Motion** — fully respo
 
 <div align="center">
 
-
-
 ![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-
-
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-
-
-
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-
-
-
 ![Vite](https://img.shields.io/badge/Vite_6-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-
-
-
 ![Framer](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white)
-
-
 
 </div>
 
@@ -127,7 +87,7 @@ Built with **React + TypeScript + Tailwind CSS + Framer Motion** — fully respo
 |---|---|---|
 | 🟠 **LeetCode** | 455+ | Knight 🏅 · Rating 2,012 · Rank #236,167 · Streak 258d |
 | 🟢 **GeeksforGeeks** | 384+ | Institute Rank #2 · Score 1,297 · Streak 140d |
-| 🔢 **Total** | **839+** | Across both platforms |
+| 🔢 **Total DSA** | **839+** | Across both platforms |
 
 </div>
 
@@ -140,3 +100,43 @@ git clone https://github.com/Md-Aman45/md-aman45.github.io.git
 cd md-aman45.github.io
 npm install --legacy-peer-deps
 npm run dev
+```
+
+Open **http://localhost:5173** 🎉
+
+---
+
+## 📦 Deploy
+
+```bash
+npm run build
+echo "" > dist/.nojekyll
+cd dist && git add -A && git commit -m "deploy" && git push -f https://github.com/Md-Aman45/md-aman45.github.io.git gh-pages && cd ..
+```
+
+---
+
+## 📬 Contact
+
+<div align="center">
+
+| | |
+|---|---|
+| 📧 **Email** | [aman9534577@gmail.com](mailto:aman9534577@gmail.com) |
+| 📱 **WhatsApp** | [+91 7858925358](https://wa.me/917858925358) |
+| 💼 **LinkedIn** | [md-aman-7941a0355](https://www.linkedin.com/in/md-aman-7941a0355/) |
+| 💻 **GitHub** | [@Md-Aman45](https://github.com/Md-Aman45) |
+| 🧩 **LeetCode** | [@AmanOps](https://leetcode.com/u/AmanOps/) |
+| 📗 **GFG** | [@amanstack](https://www.geeksforgeeks.org/profile/amanstack) |
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ **Star this repo if you like it!**
+
+Made with ❤️ by **MD Aman** · © 2026
+
+</div>
