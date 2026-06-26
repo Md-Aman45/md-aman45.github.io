@@ -142,4 +142,8 @@ Made with ❤️ by **MD Aman** · © 2026
 </div>
 
 
-## Thank You
+<div align="center">
+
+❤️ **Thank You**
+
+</div>
